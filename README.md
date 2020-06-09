@@ -33,6 +33,11 @@
 
 Bem vindos à nossa POC (Proof Of Concept) de uma simples aplicação para testar a poderosa matemática por trás do L-System, utilizando uma biblioteca 3D em JavaScript chamada **three.js**! :exploding_head:
 
+Quem fez esse projeto acontecer:
+- [Leandro Vieira](https://www.github.com/leandrovi)
+- [Eduardo Alves](https://www.github.com/ed-leonardo)
+- [Jonathan Citolino](https://www.github.com/Citolino)
+
 Este desafio foi proposto pelo Prof. Mestre [Daniel Carvalho](https://github.com/danielscarvalho) na disciplina de Compiladores da **FTT**.
 
 O objetivo do desafio era construir uma aplicação simples para representar o uso de L-System para construir uma árvore com várias ramificações :heart:
