@@ -37,12 +37,40 @@ h1, h2, h3, h4, h5, h6, strong {
   margin-bottom: 10px;
 }
 
+.info ul {
+  list-style: none;
+  display: flex;
+}
+
+.info ul li:first-child {
+  margin-right: 8px;
+}
+
+.info ul li {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.info ul li span {
+  display: block;
+  margin: 0px 8px;
+}
+
 .info a {
   color: inherit;
 }
 
 .info a:hover {
   cursor: pointer;
+}
+
+.info > p {
+  display: inline;
+}
+
+.info > span {
+  display: inline;
 }
 
 .wrapper {
